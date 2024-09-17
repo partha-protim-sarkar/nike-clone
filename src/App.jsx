@@ -1,5 +1,6 @@
 import React from 'react';
-import { Nav, Hero, PopularProducts, SuperQuality, Services, SpecialOffer, CustomerReviews, Subscribe, Footer} from './components';
+import { Hero, PopularProducts, SuperQuality, Services, SpecialOffer, CustomerReviews, Subscribe, Footer} from './sections';
+import { Nav } from './components';
 
 const App = () => {
   return (
